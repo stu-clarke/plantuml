@@ -4,8 +4,8 @@
 ' Colors
 ' ##################################
 !define AWS_COLOR #232F3E
-!define AWS_BG_COLOR #FFFFFF
-!define AWS_BORDER_COLOR #FF9900
+!define AWS_BG_COLOR #707070
+!define AWS_BORDER_COLOR #e100ff
 !define AWS_SYMBOL_COLOR AWS_COLOR
 
 ' Styling
